@@ -160,3 +160,6 @@ else
 	echo
 	echo "https://docs.qmk.fm/#/contributing"
 fi
+
+# Global install tasks
+pip3 install -r ${util_dir}/../requirements.txt

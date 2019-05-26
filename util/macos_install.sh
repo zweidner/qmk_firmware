@@ -24,3 +24,4 @@ brew tap PX4/homebrew-px4
 brew update
 brew install avr-gcc@7 gcc-arm-none-eabi dfu-programmer avrdude dfu-util python3
 brew link --force avr-gcc@7
+pip3 install -r ${util_dir}/../requirements.txt
