@@ -1,0 +1,6 @@
+{
+    "keyboard_name": "ErgoDox ZW",
+    "usb": {
+        "pid": "0x4969"
+    }
+}
