@@ -20,8 +20,7 @@ RGB_MATRIX_ENABLE = no # enable later
 
 # project specific files
 SRC += matrix.c \
-	   led_i2c.c
-I2C_DRIVER_REQUIRED = yes
+I2C_DRIVER_REQUIRED = no
 
 # Disable unsupported hardware
 AUDIO_SUPPORTED = no

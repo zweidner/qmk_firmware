@@ -32,7 +32,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #include "util.h"
 #include "matrix.h"
 #include "debounce.h"
-#include "ergodox_ez.h"
+#include "zwergodox.h"
 
 
 /*
