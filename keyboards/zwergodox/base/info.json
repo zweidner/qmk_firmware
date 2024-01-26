@@ -1,6 +1,6 @@
 {
-    "keyboard_name": "ErgoDox EZ",
+    "keyboard_name": "ErgoDox ZW",
     "usb": {
-        "pid": "0x4974"
+        "pid": "0x0420"
     }
 }

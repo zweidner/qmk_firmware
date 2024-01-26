@@ -2,7 +2,7 @@
     "manufacturer": "Zach",
     "maintainer": "Zach",
     "usb": {
-        "vid": "0xFEED",
+        "vid": "0x6969",
         "device_version": "69.6.9"
     },
     "build": {
